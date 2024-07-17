@@ -76,10 +76,7 @@ Popularity
 Concepts used:
 1. User defined functions
 2. Built-In functions
-3. Loops (For, While)
-4. Conditional Statements (Nested If, If-else, If-elif-else)
-5. Jump Statements (Continue, Break)
-6. Python-SQL connectivity
-7. Other libraries and modules (Random, tabulate)
+3. Python-SQL connectivity
+4. Other libraries and modules (Random, tabulate)
 
 Requirements: • Python 3.7 or higher , • MySQL 8.0 or higher
